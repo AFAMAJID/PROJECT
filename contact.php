@@ -20,7 +20,6 @@
 	</section>
 
 
-
 	<!-- Contact form -->
 	<section class="section-contact bg1-pattern p-t-90 p-b-113">
 		<!-- Map -->
