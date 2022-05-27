@@ -34,7 +34,7 @@
 						</h3>
 					</div>
 
-					<form class="wrap-form-reservation size22 m-l-r-auto">
+					<form action=other_page.php  method= POST/GET class="wrap-form-reservation size22 m-l-r-auto">
 						<div class="row">
 							<div class="col-md-4">
 								<!-- Date -->
